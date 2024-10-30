@@ -1,5 +1,5 @@
 import Logo from './Logo.svg';
-import Panah from './Panah.svg';
+import NullPhoto from './null-photo.png';
+import ArrowBack from './arrow-back.svg';
 
-export {Logo};
-export {Panah};
+export {Logo, NullPhoto, ArrowBack};
